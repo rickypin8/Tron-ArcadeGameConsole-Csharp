@@ -1,0 +1,6 @@
+c:\users\rikyp\onedrive\documentos\visual studio 2015\Projects\TRON\TRON\bin\Debug\TRON.exe.config
+c:\users\rikyp\onedrive\documentos\visual studio 2015\Projects\TRON\TRON\bin\Debug\TRON.exe
+c:\users\rikyp\onedrive\documentos\visual studio 2015\Projects\TRON\TRON\bin\Debug\TRON.pdb
+c:\users\rikyp\onedrive\documentos\visual studio 2015\Projects\TRON\TRON\obj\Debug\TRON.csprojResolveAssemblyReference.cache
+c:\users\rikyp\onedrive\documentos\visual studio 2015\Projects\TRON\TRON\obj\Debug\TRON.exe
+c:\users\rikyp\onedrive\documentos\visual studio 2015\Projects\TRON\TRON\obj\Debug\TRON.pdb
